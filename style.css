@@ -1,0 +1,44 @@
+
+body {
+   /* display: flex; */
+}
+
+nav {
+    display: inline-flex;
+    color: #262626;
+}
+a {
+    color: #262626;
+    font-family: sans-serif;
+    text-decoration: none;
+    font-size: 13px;
+    padding: 16px 8px 10px 8px;
+    margin-top: 15px;
+}
+
+a:hover {
+    text-decoration: underline;
+    
+}
+
+#logo {
+    height: 23px;
+    width: 108px;
+    padding: 24px 8px 0px 8px;
+    margin-left: 50px;
+    margin-right: 20px;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    margin: 40px 20px 20px 20px;
+    padding: 20px;
+}
+#first-pic {
+    display: block;
+    margin: 0 auto;
+}
+.first {
+    
+}
